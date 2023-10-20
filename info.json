@@ -1,0 +1,27 @@
+{
+    "name": "Mike Fox",
+    "website": "https://mik3f0x.github.io/",
+    "linkedin": "https://www.linkedin.com/in/mikefox9000/",
+    "github": "mik3f0x",
+    "email": "mikefox9000@gmail.com",
+    "resume": "https://tomatohammado.github.io/assets/Malik-Hammad-Resume.pdf",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress",
+        "Drupal"
+    ],
+    "otherSkills": [
+        "Unagi",
+        "Five Finger Fillet",
+        "Bridge"
+    ]
+}
+
